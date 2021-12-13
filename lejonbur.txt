@@ -7,12 +7,13 @@ Bz 1 11
 In 1 0
 And 1 00001100
 Sub 1 00001000
-Bz 1 17
+Bz 1 18
 B 0 2
 Add 0 1
 Out 0 0
 In 1 0
-Bz 1 16
+And 1 00001100
+Bz 1 17
 B 0 13
 B 0 2
 Sub 0 1
